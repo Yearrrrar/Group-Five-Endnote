@@ -1,0 +1,11 @@
+网易科技报道. ""大数据"这词不火了 是不是因为没当年说的那么好." from http://tech.163.com/17/1019/07/D13GJPSS00097U7T.html.
+	
+Evans, E. Domain-Driven	Design Reference
+, Eric Evans 
+	
+Garakh, I. "Application Design: Data-driven vs Domain-driven." from https://passwork.me/info/blog/applicationdesign.
+	
+Stenberg, J. "Eric Evans on DDD, Microservices and Boundaries." from https://www.infoq.com/news/2015/06/dddx-microservices-boundaries.
+	
+Moreno, A. "Data-Driven Design In The Real World." from https://www.smashingmagazine.com/2013/09/data-driven-design-in-the-real-world/.
+	
