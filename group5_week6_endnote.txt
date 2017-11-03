@@ -9,3 +9,12 @@ Stenberg, J. "Eric Evans on DDD, Microservices and Boundaries." from https://www
 	
 Moreno, A. "Data-Driven Design In The Real World." from https://www.smashingmagazine.com/2013/09/data-driven-design-in-the-real-world/.
 	
+HDR. "Data-Driven Design." from https://www.hdrinc.com/data-driven-design.
+	
+Moreno, A. (2013, September 24th). "Data-Driven Design In The Real World." from https://www.smashingmagazine.com/2013/09/data-driven-design-in-the-real-world/.
+	“Data-Driven” Design 
+
+Schocken, S. (2011). "Taming Complexity in Large-Scale System Projects." Efi Arazi School of Computer Science: 1-9.
+	
+wiki维基百科. "Domain-driven design." from https://en.wikipedia.org/wiki/Domain-driven_design.
+	
