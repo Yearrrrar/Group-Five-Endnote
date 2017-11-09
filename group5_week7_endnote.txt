@@ -18,3 +18,12 @@ Wiki. "ARToolKit." 2017, from https://en.wikipedia.org/wiki/ARToolKit.
 	
 百度百科. "ARTookKit." 2017, from https://baike.baidu.com/item/ARToolkit/5726883?fr=aladdin.
 	
+. "About ARToolKit." from https://archive.artoolkit.org/about-artoolkit.
+	
+. "ARToolKit-GitHub." from https://github.com/artoolkit.
+	
+. "Vuforia中文社区
+." from http://vuforia.csdn.net/.
+	
+. "网易洞见." from http://dongjian.163.com/.
+	
